@@ -1,2 +1,2 @@
 # Lazar Marinković 👋
-📌[Resume](https://lazar-marinkovic.web.app/)
+📌 [Resume](https://lazar-marinkovic.web.app/)
